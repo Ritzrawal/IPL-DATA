@@ -6,8 +6,8 @@ Ddisplay the IPL data from the REST-API into our web
 Go to the cmd of your System.
 .
 ```
+$ git clone https://github.com/Ritzrawal/IPL-DATA.git
 $ cd myproject
-$ git clone https://github.com/Ritzrawal/IPL-REST-API.git
 ```
 
 ### start the server
@@ -34,9 +34,10 @@ $ npm install express.js
 ## To run the REST-API
  
 ```
+$ npm install
 $ npm node
 ```
-## To Disply on web
+## To run reactui file
 
 ```
 $ npm start
