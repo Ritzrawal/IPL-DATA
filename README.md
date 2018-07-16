@@ -21,7 +21,7 @@ Crate database on mongodb
 
 ```
 $ cd mongod/bin
-$ mongoimport --db matches--collection playerview --type csv --file (filelocation name.csv)--haedline
+$ mongoimport --db matches--collection playerview --type csv --file (filelocation name.csv)--haederline
 
 ```
 
